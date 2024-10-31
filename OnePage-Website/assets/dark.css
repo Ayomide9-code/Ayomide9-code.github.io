@@ -1,0 +1,82 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.top-white {
+    width: 100%;
+    height: 90px;
+}
+
+.countdown>p, .digital>div>p, .digital>div>span, #dot {
+    color: white;
+}
+
+
+.tap2>ul>li{
+    color: white;
+}
+
+.toggles {
+    font-size: 35px;
+    color: white;
+}
+
+.noteslink{
+  background-color: #272621!important;
+   color: white;
+}
+
+.note{
+    background-color:#272621;
+    color: white;
+}
+
+.p5{
+    color: white;
+}
+
+.headlist{
+    color: white;
+}
+
+.noted{
+    color: white;
+}
+
+
+.section4 {
+    background-color:#272621;
+}
+
+.section4 div div p {
+    color: white;
+}
+
+.h2{
+   color: white;
+}
+
+.fdiv1, .fdiv2{
+    color: white;
+}
+
+
+.fa-sun {
+    font-size: 15px;
+    color: yellow;
+    margin-left: 5px;
+    visibility: hidden;
+}
+
+.fa-moon {
+    font-size: 15px;
+    color: white;
+    margin-right: 5px;
+}
+
+.fas{
+    color: #555;
+} 
+
+

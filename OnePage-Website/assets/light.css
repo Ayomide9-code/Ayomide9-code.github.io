@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+.fa-moon{
+    font-size: 15px;
+    color: white;
+    margin-right: 5px;
+    visibility: hidden;
+}
+
+.fa-sun{
+    font-size: 15px;
+    color: yellow;
+    margin-left: 5px;
+}
+
+.fas{
+    color: #555;
+}
+
