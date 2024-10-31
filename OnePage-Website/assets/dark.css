@@ -8,12 +8,15 @@ body {
     height: 90px;
 }
 
-.countdown>p, .digital>div>p, .digital>div>span, #dot {
+.countdown>p,
+.digital>div>p,
+.digital>div>span,
+#dot {
     color: white;
 }
 
 
-.tap2>ul>li{
+.tap2>ul>li {
     color: white;
 }
 
@@ -22,42 +25,43 @@ body {
     color: white;
 }
 
-.noteslink{
-  background-color: #272621!important;
-   color: white;
-}
-
-.note{
-    background-color:#272621;
+.noteslink {
+    background-color: #272621 !important;
     color: white;
 }
 
-.p5{
+.note {
+    background-color: #272621;
     color: white;
 }
 
-.headlist{
+.p5 {
     color: white;
 }
 
-.noted{
+.headlist {
+    color: white;
+}
+
+.noted {
     color: white;
 }
 
 
 .section4 {
-    background-color:#272621;
+    background-color: #272621;
 }
 
 .section4 div div p {
     color: white;
 }
 
-.h2{
-   color: white;
+.h2 {
+    color: white;
 }
 
-.fdiv1, .fdiv2{
+.fdiv1,
+.fdiv2 {
     color: white;
 }
 
@@ -75,8 +79,14 @@ body {
     margin-right: 5px;
 }
 
-.fas{
+.fas {
     color: #555;
-} 
+}
 
 
+
+.slide1,
+.slide2,
+.slide3 {
+    filter: grayscale();
+}
