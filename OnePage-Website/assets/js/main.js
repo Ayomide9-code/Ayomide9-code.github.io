@@ -29,14 +29,14 @@ function toggleMode() {
 
     if (themelink.getAttribute('href') === 'assets/light.css') {
         // switch to Dark mode
-        themelink.setAttribute('href', '/assets/dark.css');
+        themelink.setAttribute('href', 'assets/dark.css');
         toggleIcon.className = "fa-solid fa-toggle-off toggleon";
         topBlack.src = 'assets/img/shape-top-black-80.png';
         topDarkGray.src = 'assets/img/shape-top-dark-grey-80.png';
         topDarkGrey2.src = 'assets/img/shape-top-dark-grey-80.png';
     } else {
         // switch to light mode
-        themelink.setAttribute('href', '/assets/light.css');
+        themelink.setAttribute('href', 'assets/light.css');
         toggleIcon.className = 'fa-solid fa-toggle-on toggleon';
         topBlack.src = 'assets/img/shape-top-white-80.png';
         topDarkGray.src = 'assets/img/shape-top-grey-80.png';
